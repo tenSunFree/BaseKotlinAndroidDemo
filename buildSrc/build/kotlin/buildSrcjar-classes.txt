@@ -1,0 +1,1 @@
+C:\BaseKotlinAndroidDemo\buildSrc\build\classes\kotlin\main\AndroidConfig.class;C:\BaseKotlinAndroidDemo\buildSrc\build\classes\kotlin\main\AndroidLib.class;C:\BaseKotlinAndroidDemo\buildSrc\build\classes\kotlin\main\AndroidTestLib.class;C:\BaseKotlinAndroidDemo\buildSrc\build\classes\kotlin\main\Versions.class
