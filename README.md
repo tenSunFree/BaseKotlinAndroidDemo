@@ -2,7 +2,7 @@
 
 簡介
 ==================================
-如果對於 Sdp KotlinDSL Hilt Navigation MvvmArchitecture 有興趣的話, 可以參考看看                               
+如果對於 Sdp Groupie KotlinDSL Hilt Navigation MvvmArchitecture 有興趣的話, 可以參考看看                               
 
 取材自以下資源
 --------
@@ -11,6 +11,9 @@ https://github.com/pratamawijaya/BaseKotlinAndroid
 	
 sdp           
 https://github.com/intuit/sdp 
+	
+groupie           
+https://github.com/lisawray/groupie 
                                                                                                                 
 預覽
 --------
